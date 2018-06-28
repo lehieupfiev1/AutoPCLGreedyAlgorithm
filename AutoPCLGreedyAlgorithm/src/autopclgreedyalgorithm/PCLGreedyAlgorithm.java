@@ -548,8 +548,6 @@ public class PCLGreedyAlgorithm {
         }
         mListofListTime = resultListT;
     }
-    public static void main(String[] args) {
-        
-    }
+
 }
 
